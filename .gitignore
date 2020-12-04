@@ -125,7 +125,7 @@ dmypy.json
 .pyre/
 
 # Course specific files 
-PPC.pdf
+.pdf
 .zip
-Módulo 1.docx
-_Thumbs.db
+.docx
+
